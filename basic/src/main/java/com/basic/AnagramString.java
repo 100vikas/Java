@@ -1,6 +1,6 @@
 package com.basic;
 
-public class AnagramNumber {
+public class AnagramString {
 
 	public static void main(String[] args) {
 
@@ -19,6 +19,7 @@ public class AnagramNumber {
 					}
 					if (!status) {
 						break;
+
 					}
 				}
 
