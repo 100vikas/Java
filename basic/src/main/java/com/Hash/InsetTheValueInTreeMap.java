@@ -75,11 +75,11 @@ public class InsetTheValueInTreeMap {
 //		 treeMap.clear();
 		 log.info(treeMap.toString());
 		 //Using For Loop
-		 Iterator<Integer>it=treeMap.keySet().iterator();
-		 while(it.hasNext()) {
-			 it.next();
-			 it.remove();
-		 }
+//		 Iterator<Integer>it=treeMap.keySet().iterator();
+//		 while(it.hasNext()) {
+//			 it.next();
+//			 it.remove();
+//		 }
 		 log.info("using iterator"+treeMap.toString());
 	}
 	
